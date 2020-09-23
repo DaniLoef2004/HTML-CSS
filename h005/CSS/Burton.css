@@ -1,0 +1,66 @@
+*{
+    box-sizing: border-box;
+}
+div#helepagina, footer{
+    margin: auto;
+    width: 1000px;
+    background-color:rgb(251, 235, 235);
+    padding: 20px;
+}
+
+body{
+    font-family: "Arial", "sans-serif";
+    line-height: 24px;
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+nav a {
+    margin-right: 20px;
+}
+
+section.afbeelding, section.kleineafbeelding {
+    width:50%;
+    float: left;
+}
+
+section.kleineafbeelding {
+    text-align: right;
+}
+
+img.afbeelding {
+    width: 500px;
+}
+
+img.kleineafbeelding {
+    width: 447px;
+    margin-bottom: 10px;
+}
+
+img.artikel {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 303px;
+}
+
+article {
+    display: inline-block;
+    width:33%;
+    padding-right: 15px;
+    vertical-align: top;
+}
+
+article:last-child {
+    padding-right: 0px
+}
+
+footer {
+    color:white;
+    background:rgb(166,166,166);
+}
+
+footer a {
+    color:white;
+}
