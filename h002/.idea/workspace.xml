@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b2c31e5-77f8-45c1-b904-adea5864dc30" name="Default Changelist" comment="Commit!" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Ontwikkelomgeving" />
+  </component>
+  <component name="ProjectId" id="1hoihsXxCbu4wYEl9DKbWKC8H1L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hoofdstukken" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b2c31e5-77f8-45c1-b904-adea5864dc30" name="Default Changelist" comment="" />
+      <created>1600683967851</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600683967851</updated>
+      <workItem from="1600683968880" duration="1135000" />
+    </task>
+    <task id="LOCAL-00001" summary="Commit!">
+      <created>1600684335424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600684335424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Commit!" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit!" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1433" y="786" key="FileChooserDialogImpl" timestamp="1600708521103">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1433" y="786" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1600708521103" />
+    <state x="1431" y="741" key="Vcs.Push.Dialog.v2" timestamp="1600684444255">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1431" y="741" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1600684444255" />
+    <state x="1751" y="945" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1600684412438">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1751" y="945" key="git4idea.remote.GitConfigureRemotesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1600684412438" />
+  </component>
+</project>
