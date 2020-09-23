@@ -1,0 +1,63 @@
+body {
+    background-color: yellow;
+    font-family: "Arial", "sans-serif";
+    padding: 20px;
+}
+
+nav {
+    background-color: black;
+    padding: 10px;
+}
+
+nav a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    padding-right: 5px;
+    border-right: 2px solid white;
+}
+main{
+    background-color: green;
+    border: 1px solid black;
+}
+
+div.helescherm {
+    width: 1200px;
+    margin:auto;
+}
+
+article{
+    float:left;
+    width: 49%;
+    margin-right: 2%;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 49%;
+}
+
+td{
+    padding: 15px;
+    border: 1px solid black;
+}
+
+td.groen{
+    background-color: #ccffcc;
+}
+
+td.blauw{
+    background-color: #ccffff;
+}
+
+ div.footer {
+     position: fixed;
+     left: 0;
+     bottom: 0;
+     width: 100%;
+     background-color: black;
+     color: white;
+     text-align: center;
+     padding: 20px;
+ }
