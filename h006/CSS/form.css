@@ -1,0 +1,64 @@
+
+form {
+    font-family: "Arial", "sans-serif";
+    width: 900px;
+    margin: auto;
+    margin-top: 35px;
+}
+
+#linkerkant {
+    width: 55%;
+    float: left;
+}
+#eten {
+    width: 405px;
+    float: right;
+}
+#tekstvak, #knopjes {
+    width: 100%;
+    float: left;
+}
+
+form div.form-group, h2 {
+    margin: 12px;
+}
+
+input.text {
+    float: right;
+    width: 250px;
+}
+
+input.radioI, label.radioL {
+    float: right;
+}
+
+label.radioL {
+    margin-right: 72px;
+}
+
+select {
+    float: right;
+    width: 100px;
+    margin-right: 157px;
+}
+
+input.date {
+    float: right;
+    margin-right: 112px;
+}
+
+input.checkbox {
+    margin-left: 97px;
+}
+
+label.textarea {
+    float: left;
+    margin-right: 122px;
+}
+
+input.knop {
+    float: right;
+    width: 85px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
